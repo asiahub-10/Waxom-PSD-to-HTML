@@ -1,2 +1,2 @@
-# Waxom-PSD-to-HTML-
+# Waxom-PSD-to-HTML
 Home page
